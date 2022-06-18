@@ -1,0 +1,32 @@
+{
+    "id": "c8403116-d069-4130-aa02-39954fc971b5",
+    "address": [
+        {
+            "city": "Fitchburg",
+            "country": "Worcester County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "562 Windler Tunnel"
+        }
+    ],
+    "birthDate": "1967-03-26",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Ruecker817",
+            "given": [
+                "Kim439"
+            ],
+            "prefix": [
+                "Ms."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Kim439 Ruecker817",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

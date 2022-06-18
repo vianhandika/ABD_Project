@@ -1,0 +1,33 @@
+{
+    "id": "87f05059-de42-4630-a35b-edb53d880640",
+    "address": [
+        {
+            "city": "Cambridge",
+            "country": "Middlesex County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "774 Gorczany Hollow"
+        }
+    ],
+    "birthDate": "1922-02-14",
+    "deceasedBoolean": true,
+    "deceasedDateTime": "1983-07-05",
+    "gender": "F",
+    "name": [
+        {
+            "family": "Roque844",
+            "given": [
+                "Elvira561"
+            ],
+            "prefix": [
+                "Mrs."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Elvira561 Roque844",
+            "use": "Domínguez946"
+        }
+    ],
+    "resourceType": "Patient"
+}

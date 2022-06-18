@@ -1,0 +1,32 @@
+{
+    "id": "55cc31db-baec-40b5-9b4d-276944000751",
+    "address": [
+        {
+            "city": "Kingston",
+            "country": "Plymouth County",
+            "postalCode": "2364.0",
+            "state": "Massachusetts",
+            "text": "221 Wisoky Path Suite 93"
+        }
+    ],
+    "birthDate": "1963-08-07",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Konopelski743",
+            "given": [
+                "Theodore876"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Theodore876 Konopelski743",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

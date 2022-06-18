@@ -1,0 +1,33 @@
+{
+    "id": "8be62b06-5994-47fe-aad8-a27a02e054fa",
+    "address": [
+        {
+            "city": "Taunton",
+            "country": "Bristol County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "834 Stark Divide"
+        }
+    ],
+    "birthDate": "1987-12-02",
+    "deceasedBoolean": true,
+    "deceasedDateTime": "2015-11-28",
+    "gender": "F",
+    "name": [
+        {
+            "family": "Nájera755",
+            "given": [
+                "Anita473"
+            ],
+            "prefix": [
+                "Ms."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Anita473 Nájera755",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

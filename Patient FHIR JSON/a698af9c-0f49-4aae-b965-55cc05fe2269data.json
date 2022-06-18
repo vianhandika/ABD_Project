@@ -1,0 +1,32 @@
+{
+    "id": "a698af9c-0f49-4aae-b965-55cc05fe2269",
+    "address": [
+        {
+            "city": "Lenox",
+            "country": "Berkshire County",
+            "postalCode": "1240.0",
+            "state": "Massachusetts",
+            "text": "652 Kovacek Trailer Suite 29"
+        }
+    ],
+    "birthDate": "2018-12-21",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Kuhlman484",
+            "given": [
+                "Yuk263"
+            ],
+            "prefix": [
+                "nan"
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Yuk263 Kuhlman484",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

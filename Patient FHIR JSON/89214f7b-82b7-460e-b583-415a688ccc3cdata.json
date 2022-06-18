@@ -1,0 +1,33 @@
+{
+    "id": "89214f7b-82b7-460e-b583-415a688ccc3c",
+    "address": [
+        {
+            "city": "Middleborough",
+            "country": "Plymouth County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "484 Kuvalis Divide Apt 66"
+        }
+    ],
+    "birthDate": "1940-04-05",
+    "deceasedBoolean": true,
+    "deceasedDateTime": "1986-02-15",
+    "gender": "F",
+    "name": [
+        {
+            "family": "Nitzsche158",
+            "given": [
+                "Kristina583"
+            ],
+            "prefix": [
+                "Mrs."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Kristina583 Nitzsche158",
+            "use": "Kuhic920"
+        }
+    ],
+    "resourceType": "Patient"
+}

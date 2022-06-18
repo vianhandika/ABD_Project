@@ -1,0 +1,32 @@
+{
+    "id": "23365743-e8f2-4aba-8242-15463f81f81b",
+    "address": [
+        {
+            "city": "Barnstable",
+            "country": "Barnstable County",
+            "postalCode": "2637.0",
+            "state": "Massachusetts",
+            "text": "746 Harvey Arcade Apt 63"
+        }
+    ],
+    "birthDate": "1925-03-23",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Reichel38",
+            "given": [
+                "Araceli695"
+            ],
+            "prefix": [
+                "Mrs."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Araceli695 Reichel38",
+            "use": "Green467"
+        }
+    ],
+    "resourceType": "Patient"
+}

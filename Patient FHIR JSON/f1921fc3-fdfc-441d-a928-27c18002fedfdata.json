@@ -1,0 +1,32 @@
+{
+    "id": "f1921fc3-fdfc-441d-a928-27c18002fedf",
+    "address": [
+        {
+            "city": "Pittsfield",
+            "country": "Berkshire County",
+            "postalCode": "1201.0",
+            "state": "Massachusetts",
+            "text": "1065 Raynor Haven"
+        }
+    ],
+    "birthDate": "1909-12-22",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Kulas532",
+            "given": [
+                "Sharleen176"
+            ],
+            "prefix": [
+                "Mrs."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Sharleen176 Kulas532",
+            "use": "Rolfson709"
+        }
+    ],
+    "resourceType": "Patient"
+}

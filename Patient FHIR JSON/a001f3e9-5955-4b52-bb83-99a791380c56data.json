@@ -1,0 +1,32 @@
+{
+    "id": "a001f3e9-5955-4b52-bb83-99a791380c56",
+    "address": [
+        {
+            "city": "Milton",
+            "country": "Norfolk County",
+            "postalCode": "2186.0",
+            "state": "Massachusetts",
+            "text": "389 Beatty Plaza Apt 32"
+        }
+    ],
+    "birthDate": "1957-08-31",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Spencer878",
+            "given": [
+                "Annalee788"
+            ],
+            "prefix": [
+                "Ms."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Annalee788 Spencer878",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

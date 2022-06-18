@@ -1,0 +1,32 @@
+{
+    "id": "c5d6bdfa-5554-4927-8fa8-794e5514cb56",
+    "address": [
+        {
+            "city": "Gloucester",
+            "country": "Essex County",
+            "postalCode": "1930.0",
+            "state": "Massachusetts",
+            "text": "1065 Hackett Ville Suite 4"
+        }
+    ],
+    "birthDate": "1978-10-26",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Romaguera67",
+            "given": [
+                "Edmundo94"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Edmundo94 Romaguera67",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

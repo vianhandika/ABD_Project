@@ -1,0 +1,32 @@
+{
+    "id": "5bb2161d-1383-408b-a96d-344c0bd5f23a",
+    "address": [
+        {
+            "city": "Boston",
+            "country": "Suffolk County",
+            "postalCode": "2109.0",
+            "state": "Massachusetts",
+            "text": "955 Hettinger Esplanade Apt 98"
+        }
+    ],
+    "birthDate": "1972-04-25",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Ballesteros368",
+            "given": [
+                "Elisa944"
+            ],
+            "prefix": [
+                "Mrs."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Elisa944 Ballesteros368",
+            "use": "Pabón228"
+        }
+    ],
+    "resourceType": "Patient"
+}

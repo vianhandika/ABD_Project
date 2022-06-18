@@ -1,0 +1,32 @@
+{
+    "id": "a6028f3c-c013-44af-97ff-949dd2096ed3",
+    "address": [
+        {
+            "city": "Stow",
+            "country": "Middlesex County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "1075 Gutkowski Highlands"
+        }
+    ],
+    "birthDate": "1946-09-20",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Prohaska837",
+            "given": [
+                "Ingrid581"
+            ],
+            "prefix": [
+                "Mrs."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Ingrid581 Prohaska837",
+            "use": "Maggio310"
+        }
+    ],
+    "resourceType": "Patient"
+}

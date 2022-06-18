@@ -1,0 +1,32 @@
+{
+    "id": "b580d37e-983a-410c-9f81-637ce14f8975",
+    "address": [
+        {
+            "city": "Boston",
+            "country": "Suffolk County",
+            "postalCode": "2110.0",
+            "state": "Massachusetts",
+            "text": "217 Will Well Unit 1"
+        }
+    ],
+    "birthDate": "2009-06-12",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Lebrón484",
+            "given": [
+                "Beatriz277"
+            ],
+            "prefix": [
+                "nan"
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Beatriz277 Lebrón484",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

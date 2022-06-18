@@ -1,0 +1,32 @@
+{
+    "id": "734dfbb9-6320-4fee-b21a-175d3f2f14ba",
+    "address": [
+        {
+            "city": "Attleboro",
+            "country": "Bristol County",
+            "postalCode": "2703.0",
+            "state": "Massachusetts",
+            "text": "1045 Gibson Vista"
+        }
+    ],
+    "birthDate": "1948-05-19",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Ruecker817",
+            "given": [
+                "Cody889"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Cody889 Ruecker817",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

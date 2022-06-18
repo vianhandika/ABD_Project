@@ -1,0 +1,33 @@
+{
+    "id": "0325261f-61eb-46f8-acc6-89d15053fecd",
+    "address": [
+        {
+            "city": "Cambridge",
+            "country": "Middlesex County",
+            "postalCode": "2139.0",
+            "state": "Massachusetts",
+            "text": "570 Nikolaus Wynd"
+        }
+    ],
+    "birthDate": "1922-02-14",
+    "deceasedBoolean": true,
+    "deceasedDateTime": "2007-09-03",
+    "gender": "F",
+    "name": [
+        {
+            "family": "Menéndez746",
+            "given": [
+                "Guillermina633"
+            ],
+            "prefix": [
+                "Ms."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Guillermina633 Menéndez746",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

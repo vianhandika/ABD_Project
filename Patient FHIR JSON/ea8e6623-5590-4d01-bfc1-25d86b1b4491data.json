@@ -1,0 +1,32 @@
+{
+    "id": "ea8e6623-5590-4d01-bfc1-25d86b1b4491",
+    "address": [
+        {
+            "city": "Douglas",
+            "country": "Worcester County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "525 Mills Quay Apt 74"
+        }
+    ],
+    "birthDate": "1994-04-21",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Reinger292",
+            "given": [
+                "Winona266"
+            ],
+            "prefix": [
+                "Ms."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Winona266 Reinger292",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

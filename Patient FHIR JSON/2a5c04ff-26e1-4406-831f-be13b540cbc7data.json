@@ -1,0 +1,32 @@
+{
+    "id": "2a5c04ff-26e1-4406-831f-be13b540cbc7",
+    "address": [
+        {
+            "city": "Gloucester",
+            "country": "Essex County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "775 Johnson Arcade Unit 42"
+        }
+    ],
+    "birthDate": "1968-10-14",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Bergstrom287",
+            "given": [
+                "Laura391"
+            ],
+            "prefix": [
+                "Ms."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Laura391 Bergstrom287",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

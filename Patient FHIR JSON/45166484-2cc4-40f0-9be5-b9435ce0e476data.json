@@ -1,0 +1,32 @@
+{
+    "id": "45166484-2cc4-40f0-9be5-b9435ce0e476",
+    "address": [
+        {
+            "city": "Boston",
+            "country": "Suffolk County",
+            "postalCode": "2115.0",
+            "state": "Massachusetts",
+            "text": "818 Rau Fort"
+        }
+    ],
+    "birthDate": "1967-02-20",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Thiel172",
+            "given": [
+                "Katia630"
+            ],
+            "prefix": [
+                "Mrs."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Katia630 Thiel172",
+            "use": "Kuhn96"
+        }
+    ],
+    "resourceType": "Patient"
+}

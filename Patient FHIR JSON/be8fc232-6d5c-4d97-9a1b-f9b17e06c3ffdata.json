@@ -1,0 +1,32 @@
+{
+    "id": "be8fc232-6d5c-4d97-9a1b-f9b17e06c3ff",
+    "address": [
+        {
+            "city": "Boston",
+            "country": "Suffolk County",
+            "postalCode": "2116.0",
+            "state": "Massachusetts",
+            "text": "503 Dibbert Divide"
+        }
+    ],
+    "birthDate": "1973-08-17",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Duarte203",
+            "given": [
+                "Soledad678"
+            ],
+            "prefix": [
+                "Mrs."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Soledad678 Duarte203",
+            "use": "Briones478"
+        }
+    ],
+    "resourceType": "Patient"
+}

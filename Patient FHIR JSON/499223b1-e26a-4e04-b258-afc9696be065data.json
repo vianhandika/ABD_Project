@@ -1,0 +1,32 @@
+{
+    "id": "499223b1-e26a-4e04-b258-afc9696be065",
+    "address": [
+        {
+            "city": "Lowell",
+            "country": "Middlesex County",
+            "postalCode": "1854.0",
+            "state": "Massachusetts",
+            "text": "528 Lowe Lodge"
+        }
+    ],
+    "birthDate": "2007-04-04",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Goodwin327",
+            "given": [
+                "Paulita78"
+            ],
+            "prefix": [
+                "nan"
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Paulita78 Goodwin327",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

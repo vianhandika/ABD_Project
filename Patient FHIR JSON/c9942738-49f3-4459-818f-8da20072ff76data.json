@@ -1,0 +1,32 @@
+{
+    "id": "c9942738-49f3-4459-818f-8da20072ff76",
+    "address": [
+        {
+            "city": "Arlington",
+            "country": "Middlesex County",
+            "postalCode": "2474.0",
+            "state": "Massachusetts",
+            "text": "200 Jaskolski Annex"
+        }
+    ],
+    "birthDate": "1935-10-27",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Kunze215",
+            "given": [
+                "Reginald96"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Reginald96 Kunze215",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

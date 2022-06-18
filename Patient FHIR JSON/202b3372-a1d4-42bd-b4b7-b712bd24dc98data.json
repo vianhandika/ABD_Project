@@ -1,0 +1,32 @@
+{
+    "id": "202b3372-a1d4-42bd-b4b7-b712bd24dc98",
+    "address": [
+        {
+            "city": "Winchester",
+            "country": "Middlesex County",
+            "postalCode": "1890.0",
+            "state": "Massachusetts",
+            "text": "531 Streich Brook Suite 47"
+        }
+    ],
+    "birthDate": "1961-11-12",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Schuster709",
+            "given": [
+                "Fay398"
+            ],
+            "prefix": [
+                "Ms."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Fay398 Schuster709",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

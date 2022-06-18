@@ -1,0 +1,32 @@
+{
+    "id": "552600f9-53d6-4d77-add6-0d364bb15b63",
+    "address": [
+        {
+            "city": "Rochester",
+            "country": "Plymouth County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "284 Fahey Gateway"
+        }
+    ],
+    "birthDate": "1974-02-23",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Stracke611",
+            "given": [
+                "Eddie505"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Eddie505 Stracke611",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

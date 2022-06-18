@@ -1,0 +1,32 @@
+{
+    "id": "68878f91-5962-4ef2-83e7-43b8298c1708",
+    "address": [
+        {
+            "city": "Boston",
+            "country": "Suffolk County",
+            "postalCode": "2118.0",
+            "state": "Massachusetts",
+            "text": "448 Rath Glen"
+        }
+    ],
+    "birthDate": "1977-11-07",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Maggio310",
+            "given": [
+                "Ali918"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Ali918 Maggio310",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

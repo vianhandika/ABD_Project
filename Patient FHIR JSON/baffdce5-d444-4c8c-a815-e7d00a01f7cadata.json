@@ -1,0 +1,32 @@
+{
+    "id": "baffdce5-d444-4c8c-a815-e7d00a01f7ca",
+    "address": [
+        {
+            "city": "Boston",
+            "country": "Suffolk County",
+            "postalCode": "2129.0",
+            "state": "Massachusetts",
+            "text": "214 Schmeler Parade"
+        }
+    ],
+    "birthDate": "1939-06-22",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Kuvalis369",
+            "given": [
+                "Naida467"
+            ],
+            "prefix": [
+                "Ms."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Naida467 Kuvalis369",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

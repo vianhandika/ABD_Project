@@ -1,0 +1,32 @@
+{
+    "id": "b320b49d-b456-48e6-b037-cadc249da07e",
+    "address": [
+        {
+            "city": "Plainville",
+            "country": "Norfolk County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "120 Wuckert Track"
+        }
+    ],
+    "birthDate": "1974-05-10",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Marvin195",
+            "given": [
+                "Walter473"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Walter473 Marvin195",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

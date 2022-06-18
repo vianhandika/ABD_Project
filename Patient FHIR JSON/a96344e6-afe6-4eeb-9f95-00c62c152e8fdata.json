@@ -1,0 +1,32 @@
+{
+    "id": "a96344e6-afe6-4eeb-9f95-00c62c152e8f",
+    "address": [
+        {
+            "city": "Uxbridge",
+            "country": "Worcester County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "516 Gorczany Haven"
+        }
+    ],
+    "birthDate": "1982-01-14",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Vergara204",
+            "given": [
+                "Julio César525"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Julio César525 Vergara204",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

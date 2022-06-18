@@ -1,0 +1,32 @@
+{
+    "id": "f0f6572b-1588-4828-bb8b-e3148692e536",
+    "address": [
+        {
+            "city": "Lowell",
+            "country": "Middlesex County",
+            "postalCode": "1852.0",
+            "state": "Massachusetts",
+            "text": "676 Hirthe Mews Unit 69"
+        }
+    ],
+    "birthDate": "1978-09-13",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Huels583",
+            "given": [
+                "Barney639"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Barney639 Huels583",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

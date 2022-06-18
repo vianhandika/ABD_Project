@@ -1,0 +1,32 @@
+{
+    "id": "e7ff5cca-b90d-426c-a683-fef2fcb80da4",
+    "address": [
+        {
+            "city": "Sharon",
+            "country": "Norfolk County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "1032 Koch Gardens"
+        }
+    ],
+    "birthDate": "2009-08-20",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Casárez469",
+            "given": [
+                "Alberto639"
+            ],
+            "prefix": [
+                "nan"
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Alberto639 Casárez469",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

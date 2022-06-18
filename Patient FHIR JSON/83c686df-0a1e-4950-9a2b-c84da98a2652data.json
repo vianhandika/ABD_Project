@@ -1,0 +1,32 @@
+{
+    "id": "83c686df-0a1e-4950-9a2b-c84da98a2652",
+    "address": [
+        {
+            "city": "Gardner",
+            "country": "Worcester County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "981 Dickens Rapid Apt 46"
+        }
+    ],
+    "birthDate": "1962-01-24",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Spencer878",
+            "given": [
+                "Viki353"
+            ],
+            "prefix": [
+                "Mrs."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Viki353 Spencer878",
+            "use": "Kohler843"
+        }
+    ],
+    "resourceType": "Patient"
+}

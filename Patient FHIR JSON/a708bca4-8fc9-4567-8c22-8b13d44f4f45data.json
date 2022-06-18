@@ -1,0 +1,32 @@
+{
+    "id": "a708bca4-8fc9-4567-8c22-8b13d44f4f45",
+    "address": [
+        {
+            "city": "Quincy",
+            "country": "Norfolk County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "356 Kuhn Grove Suite 62"
+        }
+    ],
+    "birthDate": "1944-04-14",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Effertz744",
+            "given": [
+                "Weldon459"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Weldon459 Effertz744",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

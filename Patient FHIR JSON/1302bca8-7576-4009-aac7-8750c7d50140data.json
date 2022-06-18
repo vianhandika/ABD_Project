@@ -1,0 +1,33 @@
+{
+    "id": "1302bca8-7576-4009-aac7-8750c7d50140",
+    "address": [
+        {
+            "city": "Hanover",
+            "country": "Plymouth County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "623 Paucek Gardens"
+        }
+    ],
+    "birthDate": "1941-02-14",
+    "deceasedBoolean": true,
+    "deceasedDateTime": "1995-06-02",
+    "gender": "F",
+    "name": [
+        {
+            "family": "Kuvalis369",
+            "given": [
+                "Criselda629"
+            ],
+            "prefix": [
+                "Mrs."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Criselda629 Kuvalis369",
+            "use": "O'Conner199"
+        }
+    ],
+    "resourceType": "Patient"
+}

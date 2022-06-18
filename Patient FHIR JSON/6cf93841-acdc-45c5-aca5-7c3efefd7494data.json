@@ -1,0 +1,32 @@
+{
+    "id": "6cf93841-acdc-45c5-aca5-7c3efefd7494",
+    "address": [
+        {
+            "city": "Saugus",
+            "country": "Essex County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "326 Ritchie Trafficway"
+        }
+    ],
+    "birthDate": "1984-06-12",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Waters156",
+            "given": [
+                "Mario764"
+            ],
+            "prefix": [
+                "Mrs."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Mario764 Waters156",
+            "use": "Will178"
+        }
+    ],
+    "resourceType": "Patient"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "887dacdd-e5ce-4556-8ff1-9e902d222d95",
+    "address": [
+        {
+            "city": "Waltham",
+            "country": "Middlesex County",
+            "postalCode": "2453.0",
+            "state": "Massachusetts",
+            "text": "795 Senger Plaza"
+        }
+    ],
+    "birthDate": "1982-06-21",
+    "deceasedBoolean": true,
+    "deceasedDateTime": "1983-11-07",
+    "gender": "F",
+    "name": [
+        {
+            "family": "Patiño436",
+            "given": [
+                "Mercedes82"
+            ],
+            "prefix": [
+                "nan"
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Mercedes82 Patiño436",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

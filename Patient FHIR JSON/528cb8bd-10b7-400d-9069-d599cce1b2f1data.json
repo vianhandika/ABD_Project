@@ -1,0 +1,32 @@
+{
+    "id": "528cb8bd-10b7-400d-9069-d599cce1b2f1",
+    "address": [
+        {
+            "city": "Salem",
+            "country": "Essex County",
+            "postalCode": "1970.0",
+            "state": "Massachusetts",
+            "text": "675 Collier Plaza"
+        }
+    ],
+    "birthDate": "1960-07-16",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Aufderhar910",
+            "given": [
+                "Romona686"
+            ],
+            "prefix": [
+                "Mrs."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Romona686 Aufderhar910",
+            "use": "Connelly992"
+        }
+    ],
+    "resourceType": "Patient"
+}

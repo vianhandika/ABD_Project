@@ -1,0 +1,32 @@
+{
+    "id": "bf4c0305-f14c-4035-be21-8781c675b7db",
+    "address": [
+        {
+            "city": "Beverly",
+            "country": "Essex County",
+            "postalCode": "1915.0",
+            "state": "Massachusetts",
+            "text": "139 Kulas Key"
+        }
+    ],
+    "birthDate": "1965-02-22",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Fadel536",
+            "given": [
+                "Benedict104"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Benedict104 Fadel536",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

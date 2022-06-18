@@ -1,0 +1,32 @@
+{
+    "id": "b4a203ec-0c99-430b-ba38-5c851f04ae17",
+    "address": [
+        {
+            "city": "Swansea",
+            "country": "Bristol County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "577 Kshlerin Parade"
+        }
+    ],
+    "birthDate": "2013-07-20",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Reinger292",
+            "given": [
+                "Lonny638"
+            ],
+            "prefix": [
+                "nan"
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Lonny638 Reinger292",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

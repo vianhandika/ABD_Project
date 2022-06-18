@@ -1,0 +1,32 @@
+{
+    "id": "80427c8e-15ba-482f-b168-fc4f1d375179",
+    "address": [
+        {
+            "city": "Brockton",
+            "country": "Plymouth County",
+            "postalCode": "2301.0",
+            "state": "Massachusetts",
+            "text": "167 Jast Throughway Unit 86"
+        }
+    ],
+    "birthDate": "1935-11-29",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Schultz619",
+            "given": [
+                "Luigi346"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Luigi346 Schultz619",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

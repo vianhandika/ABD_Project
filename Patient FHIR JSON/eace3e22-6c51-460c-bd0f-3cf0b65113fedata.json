@@ -1,0 +1,32 @@
+{
+    "id": "eace3e22-6c51-460c-bd0f-3cf0b65113fe",
+    "address": [
+        {
+            "city": "West Springfield",
+            "country": "Hampden County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "448 Langworth Trailer Suite 29"
+        }
+    ],
+    "birthDate": "1980-03-16",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Spinka232",
+            "given": [
+                "Fletcher87"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Fletcher87 Spinka232",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

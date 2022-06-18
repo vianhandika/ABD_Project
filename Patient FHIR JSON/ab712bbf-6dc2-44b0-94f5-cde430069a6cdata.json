@@ -1,0 +1,32 @@
+{
+    "id": "ab712bbf-6dc2-44b0-94f5-cde430069a6c",
+    "address": [
+        {
+            "city": "Spencer",
+            "country": "Worcester County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "964 Schroeder Branch Apt 20"
+        }
+    ],
+    "birthDate": "1997-10-15",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Stracke611",
+            "given": [
+                "Santina680"
+            ],
+            "prefix": [
+                "Ms."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Santina680 Stracke611",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

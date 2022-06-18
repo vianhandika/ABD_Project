@@ -1,0 +1,32 @@
+{
+    "id": "851275c6-bc90-4e95-a9a7-6f42111be448",
+    "address": [
+        {
+            "city": "Agawam",
+            "country": "Hampden County",
+            "postalCode": "1001.0",
+            "state": "Massachusetts",
+            "text": "496 Hackett Extension Apt 9"
+        }
+    ],
+    "birthDate": "1974-09-24",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Regalado83",
+            "given": [
+                "Ignacio928"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Ignacio928 Regalado83",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

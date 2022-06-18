@@ -1,0 +1,32 @@
+{
+    "id": "171508e4-8de0-4f33-b7d0-87b7ac4a8008",
+    "address": [
+        {
+            "city": "Halifax",
+            "country": "Plymouth County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "188 Baumbach Arcade Apt 78"
+        }
+    ],
+    "birthDate": "1958-09-22",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Zulauf375",
+            "given": [
+                "Gary33"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Gary33 Zulauf375",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

@@ -1,0 +1,32 @@
+{
+    "id": "45ad6c75-7808-4f70-9c80-0db44f681e55",
+    "address": [
+        {
+            "city": "Boston",
+            "country": "Suffolk County",
+            "postalCode": "2108.0",
+            "state": "Massachusetts",
+            "text": "764 Feil Route"
+        }
+    ],
+    "birthDate": "2007-06-28",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Meraz691",
+            "given": [
+                "José Eduardo181"
+            ],
+            "prefix": [
+                "nan"
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "José Eduardo181 Meraz691",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

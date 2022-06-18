@@ -1,0 +1,33 @@
+{
+    "id": "ac89baa4-4798-4392-aeb6-a4e635721290",
+    "address": [
+        {
+            "city": "Boston",
+            "country": "Suffolk County",
+            "postalCode": "2118.0",
+            "state": "Massachusetts",
+            "text": "997 Johnson Orchard Apt 92"
+        }
+    ],
+    "birthDate": "1913-05-30",
+    "deceasedBoolean": true,
+    "deceasedDateTime": "1986-08-05",
+    "gender": "M",
+    "name": [
+        {
+            "family": "Gusikowski974",
+            "given": [
+                "Lonnie913"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Lonnie913 Gusikowski974",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

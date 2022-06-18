@@ -1,0 +1,32 @@
+{
+    "id": "05cdf25a-7da5-4a7b-b721-8e63d2e3b6ec",
+    "address": [
+        {
+            "city": "Hampden",
+            "country": "Hampden County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "349 Dooley Trace"
+        }
+    ],
+    "birthDate": "2015-01-17",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Steuber698",
+            "given": [
+                "Arthur650"
+            ],
+            "prefix": [
+                "nan"
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Arthur650 Steuber698",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

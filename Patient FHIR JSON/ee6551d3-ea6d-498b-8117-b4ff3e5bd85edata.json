@@ -1,0 +1,32 @@
+{
+    "id": "ee6551d3-ea6d-498b-8117-b4ff3e5bd85e",
+    "address": [
+        {
+            "city": "Barnstable",
+            "country": "Barnstable County",
+            "postalCode": "2655.0",
+            "state": "Massachusetts",
+            "text": "684 McClure Junction Unit 27"
+        }
+    ],
+    "birthDate": "1939-01-10",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Stracke611",
+            "given": [
+                "Carlota980"
+            ],
+            "prefix": [
+                "Mrs."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Carlota980 Stracke611",
+            "use": "Veum823"
+        }
+    ],
+    "resourceType": "Patient"
+}

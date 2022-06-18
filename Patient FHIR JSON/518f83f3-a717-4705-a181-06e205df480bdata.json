@@ -1,0 +1,32 @@
+{
+    "id": "518f83f3-a717-4705-a181-06e205df480b",
+    "address": [
+        {
+            "city": "Peabody",
+            "country": "Essex County",
+            "postalCode": "1960.0",
+            "state": "Massachusetts",
+            "text": "211 Effertz Quay"
+        }
+    ],
+    "birthDate": "1999-02-03",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Reichel38",
+            "given": [
+                "Cythia210"
+            ],
+            "prefix": [
+                "Ms."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Cythia210 Reichel38",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

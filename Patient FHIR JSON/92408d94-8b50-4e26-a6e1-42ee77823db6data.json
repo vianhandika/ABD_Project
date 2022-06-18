@@ -1,0 +1,32 @@
+{
+    "id": "92408d94-8b50-4e26-a6e1-42ee77823db6",
+    "address": [
+        {
+            "city": "Lawrence",
+            "country": "Essex County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "395 Brakus Wall Unit 30"
+        }
+    ],
+    "birthDate": "1979-09-22",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Schamberger479",
+            "given": [
+                "Myrle831"
+            ],
+            "prefix": [
+                "Mrs."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Myrle831 Schamberger479",
+            "use": "Effertz744"
+        }
+    ],
+    "resourceType": "Patient"
+}

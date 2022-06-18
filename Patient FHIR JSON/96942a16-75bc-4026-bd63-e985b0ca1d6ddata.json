@@ -1,0 +1,32 @@
+{
+    "id": "96942a16-75bc-4026-bd63-e985b0ca1d6d",
+    "address": [
+        {
+            "city": "East Brookfield",
+            "country": "Worcester County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "248 Hartmann Neck Suite 71"
+        }
+    ],
+    "birthDate": "2000-03-12",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Koss676",
+            "given": [
+                "Lavern240"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Lavern240 Koss676",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

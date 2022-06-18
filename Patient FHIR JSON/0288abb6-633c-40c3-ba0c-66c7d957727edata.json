@@ -1,0 +1,32 @@
+{
+    "id": "0288abb6-633c-40c3-ba0c-66c7d957727e",
+    "address": [
+        {
+            "city": "Williamstown",
+            "country": "Berkshire County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "169 Witting Orchard Unit 98"
+        }
+    ],
+    "birthDate": "1950-11-28",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Shanahan202",
+            "given": [
+                "Keva141"
+            ],
+            "prefix": [
+                "Mrs."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Keva141 Shanahan202",
+            "use": "Reichel38"
+        }
+    ],
+    "resourceType": "Patient"
+}

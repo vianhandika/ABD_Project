@@ -1,0 +1,32 @@
+{
+    "id": "04a849f4-1aaf-4112-a62f-d44df4325773",
+    "address": [
+        {
+            "city": "Boston",
+            "country": "Suffolk County",
+            "postalCode": "2108.0",
+            "state": "Massachusetts",
+            "text": "334 Schmeler Stravenue"
+        }
+    ],
+    "birthDate": "1997-07-18",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Almanza534",
+            "given": [
+                "Verónica383"
+            ],
+            "prefix": [
+                "Ms."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Verónica383 Almanza534",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

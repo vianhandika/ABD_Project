@@ -1,0 +1,32 @@
+{
+    "id": "88ea8573-863c-47e3-b144-b810c63156a0",
+    "address": [
+        {
+            "city": "Billerica",
+            "country": "Middlesex County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "222 Weimann Parade Apt 21"
+        }
+    ],
+    "birthDate": "1962-10-25",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Candelaria844",
+            "given": [
+                "Mayte822"
+            ],
+            "prefix": [
+                "Mrs."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Mayte822 Candelaria844",
+            "use": "Hernandes724"
+        }
+    ],
+    "resourceType": "Patient"
+}

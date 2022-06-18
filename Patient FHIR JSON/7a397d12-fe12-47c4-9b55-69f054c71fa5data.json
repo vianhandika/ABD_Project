@@ -1,0 +1,32 @@
+{
+    "id": "7a397d12-fe12-47c4-9b55-69f054c71fa5",
+    "address": [
+        {
+            "city": "Amherst",
+            "country": "Hampshire County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "333 Green Skyway"
+        }
+    ],
+    "birthDate": "2006-03-17",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Swaniawski813",
+            "given": [
+                "Marion502"
+            ],
+            "prefix": [
+                "nan"
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Marion502 Swaniawski813",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

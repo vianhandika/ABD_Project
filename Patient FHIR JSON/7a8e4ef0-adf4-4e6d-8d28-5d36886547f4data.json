@@ -1,0 +1,32 @@
+{
+    "id": "7a8e4ef0-adf4-4e6d-8d28-5d36886547f4",
+    "address": [
+        {
+            "city": "Boston",
+            "country": "Suffolk County",
+            "postalCode": "2122.0",
+            "state": "Massachusetts",
+            "text": "341 Langosh Meadow Unit 31"
+        }
+    ],
+    "birthDate": "1976-02-21",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Stamm704",
+            "given": [
+                "Ernie189"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Ernie189 Stamm704",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

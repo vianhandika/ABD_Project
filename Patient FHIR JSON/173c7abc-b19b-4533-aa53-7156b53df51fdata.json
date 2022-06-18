@@ -1,0 +1,33 @@
+{
+    "id": "173c7abc-b19b-4533-aa53-7156b53df51f",
+    "address": [
+        {
+            "city": "New Ashford",
+            "country": "Berkshire County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "629 Mills Park"
+        }
+    ],
+    "birthDate": "1954-02-03",
+    "deceasedBoolean": true,
+    "deceasedDateTime": "1995-06-14",
+    "gender": "M",
+    "name": [
+        {
+            "family": "Anderson154",
+            "given": [
+                "Leopoldo762"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Leopoldo762 Anderson154",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

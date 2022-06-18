@@ -1,0 +1,32 @@
+{
+    "id": "143a7c79-21b9-4240-b8ec-dbeb600699ea",
+    "address": [
+        {
+            "city": "Boston",
+            "country": "Suffolk County",
+            "postalCode": "2203.0",
+            "state": "Massachusetts",
+            "text": "746 Weissnat Landing"
+        }
+    ],
+    "birthDate": "1972-12-05",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Burgos636",
+            "given": [
+                "Francisco472"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Francisco472 Burgos636",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

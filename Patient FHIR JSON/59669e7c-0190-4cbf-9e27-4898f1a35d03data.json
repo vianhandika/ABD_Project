@@ -1,0 +1,32 @@
+{
+    "id": "59669e7c-0190-4cbf-9e27-4898f1a35d03",
+    "address": [
+        {
+            "city": "North Brookfield",
+            "country": "Worcester County",
+            "postalCode": "1535.0",
+            "state": "Massachusetts",
+            "text": "1013 Skiles Trafficway Unit 29"
+        }
+    ],
+    "birthDate": "1986-01-31",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Juárez383",
+            "given": [
+                "Julio255"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Julio255 Juárez383",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

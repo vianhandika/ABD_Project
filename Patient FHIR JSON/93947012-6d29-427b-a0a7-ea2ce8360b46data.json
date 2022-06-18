@@ -1,0 +1,32 @@
+{
+    "id": "93947012-6d29-427b-a0a7-ea2ce8360b46",
+    "address": [
+        {
+            "city": "Salem",
+            "country": "Essex County",
+            "postalCode": "1907.0",
+            "state": "Massachusetts",
+            "text": "1002 Gulgowski Crossroad"
+        }
+    ],
+    "birthDate": "1960-01-19",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Bernal586",
+            "given": [
+                "David908"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "David908 Bernal586",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

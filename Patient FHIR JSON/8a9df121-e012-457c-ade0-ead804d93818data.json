@@ -1,0 +1,33 @@
+{
+    "id": "8a9df121-e012-457c-ade0-ead804d93818",
+    "address": [
+        {
+            "city": "West Springfield",
+            "country": "Hampden County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "542 Aufderhar Quay Apt 13"
+        }
+    ],
+    "birthDate": "1923-05-15",
+    "deceasedBoolean": true,
+    "deceasedDateTime": "2001-11-18",
+    "gender": "F",
+    "name": [
+        {
+            "family": "Barton704",
+            "given": [
+                "Juli424"
+            ],
+            "prefix": [
+                "Mrs."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Juli424 Barton704",
+            "use": "Gutmann970"
+        }
+    ],
+    "resourceType": "Patient"
+}

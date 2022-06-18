@@ -1,0 +1,32 @@
+{
+    "id": "5dccb2e6-668f-41b4-add4-4020617610b3",
+    "address": [
+        {
+            "city": "Boston",
+            "country": "Suffolk County",
+            "postalCode": "2210.0",
+            "state": "Massachusetts",
+            "text": "886 Schaefer Forge Unit 25"
+        }
+    ],
+    "birthDate": "1965-01-02",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Lozada73",
+            "given": [
+                "Pablo44"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Pablo44 Lozada73",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

@@ -1,0 +1,32 @@
+{
+    "id": "d286528e-a39a-4c04-8545-5e648f781052",
+    "address": [
+        {
+            "city": "Hamilton",
+            "country": "Essex County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "474 Hettinger Arcade"
+        }
+    ],
+    "birthDate": "1974-04-25",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Koss676",
+            "given": [
+                "Scottie437"
+            ],
+            "prefix": [
+                "Mrs."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Scottie437 Koss676",
+            "use": "Witting912"
+        }
+    ],
+    "resourceType": "Patient"
+}

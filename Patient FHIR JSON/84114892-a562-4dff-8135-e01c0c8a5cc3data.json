@@ -1,0 +1,32 @@
+{
+    "id": "84114892-a562-4dff-8135-e01c0c8a5cc3",
+    "address": [
+        {
+            "city": "Boston",
+            "country": "Suffolk County",
+            "postalCode": "2163.0",
+            "state": "Massachusetts",
+            "text": "614 Dickens Avenue"
+        }
+    ],
+    "birthDate": "1961-12-10",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Cedillo160",
+            "given": [
+                "Luz785"
+            ],
+            "prefix": [
+                "Mrs."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Luz785 Cedillo160",
+            "use": "Valle770"
+        }
+    ],
+    "resourceType": "Patient"
+}

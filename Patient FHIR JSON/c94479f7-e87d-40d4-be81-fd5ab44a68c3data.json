@@ -1,0 +1,32 @@
+{
+    "id": "c94479f7-e87d-40d4-be81-fd5ab44a68c3",
+    "address": [
+        {
+            "city": "Greenfield",
+            "country": "Franklin County",
+            "postalCode": "1301.0",
+            "state": "Massachusetts",
+            "text": "539 Ritchie Bay Apt 49"
+        }
+    ],
+    "birthDate": "1944-12-26",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Rice937",
+            "given": [
+                "Richard937"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Richard937 Rice937",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

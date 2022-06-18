@@ -1,0 +1,32 @@
+{
+    "id": "f9b8f463-595a-49c5-8c5a-18ec493301fb",
+    "address": [
+        {
+            "city": "Pittsfield",
+            "country": "Berkshire County",
+            "postalCode": "1201.0",
+            "state": "Massachusetts",
+            "text": "362 Corkery Gate Suite 33"
+        }
+    ],
+    "birthDate": "1959-04-03",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Braun514",
+            "given": [
+                "Randa356"
+            ],
+            "prefix": [
+                "Mrs."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Randa356 Braun514",
+            "use": "Metz686"
+        }
+    ],
+    "resourceType": "Patient"
+}

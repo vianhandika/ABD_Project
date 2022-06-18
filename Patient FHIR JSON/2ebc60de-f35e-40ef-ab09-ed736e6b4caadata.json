@@ -1,0 +1,32 @@
+{
+    "id": "2ebc60de-f35e-40ef-ab09-ed736e6b4caa",
+    "address": [
+        {
+            "city": "Saugus",
+            "country": "Essex County",
+            "postalCode": "1906.0",
+            "state": "Massachusetts",
+            "text": "635 Blanda Wynd Unit 42"
+        }
+    ],
+    "birthDate": "1995-06-11",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Chavarría957",
+            "given": [
+                "Agustín529"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Agustín529 Chavarría957",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

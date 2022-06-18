@@ -1,0 +1,32 @@
+{
+    "id": "11e1992a-28b9-4ee8-bb7f-1c3a7041b57d",
+    "address": [
+        {
+            "city": "Pittsfield",
+            "country": "Berkshire County",
+            "postalCode": "1201.0",
+            "state": "Massachusetts",
+            "text": "1057 Sawayn Track Suite 67"
+        }
+    ],
+    "birthDate": "1948-07-04",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Strosin214",
+            "given": [
+                "Alease857"
+            ],
+            "prefix": [
+                "Ms."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Alease857 Strosin214",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

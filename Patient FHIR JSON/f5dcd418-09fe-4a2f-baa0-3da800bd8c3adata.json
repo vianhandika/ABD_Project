@@ -1,0 +1,32 @@
+{
+    "id": "f5dcd418-09fe-4a2f-baa0-3da800bd8c3a",
+    "address": [
+        {
+            "city": "Boston",
+            "country": "Suffolk County",
+            "postalCode": "2135.0",
+            "state": "Massachusetts",
+            "text": "1050 Lindgren Extension Apt 38"
+        }
+    ],
+    "birthDate": "1996-10-18",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Auer97",
+            "given": [
+                "Gregorio366"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Gregorio366 Auer97",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

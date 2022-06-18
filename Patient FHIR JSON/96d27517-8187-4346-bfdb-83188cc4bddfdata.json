@@ -1,0 +1,32 @@
+{
+    "id": "96d27517-8187-4346-bfdb-83188cc4bddf",
+    "address": [
+        {
+            "city": "Greenfield",
+            "country": "Franklin County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "610 Harber Rapid Unit 87"
+        }
+    ],
+    "birthDate": "1997-01-06",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Kub800",
+            "given": [
+                "Ghislaine112"
+            ],
+            "prefix": [
+                "Ms."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Ghislaine112 Kub800",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

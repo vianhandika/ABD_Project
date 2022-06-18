@@ -1,0 +1,32 @@
+{
+    "id": "9c55170c-081c-450d-b90b-3a580a820e77",
+    "address": [
+        {
+            "city": "Malden",
+            "country": "Middlesex County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "547 Hermann Track"
+        }
+    ],
+    "birthDate": "1989-04-30",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Miramontes145",
+            "given": [
+                "Inés791"
+            ],
+            "prefix": [
+                "Ms."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Inés791 Miramontes145",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

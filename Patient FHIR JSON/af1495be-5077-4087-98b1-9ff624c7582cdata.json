@@ -1,0 +1,32 @@
+{
+    "id": "af1495be-5077-4087-98b1-9ff624c7582c",
+    "address": [
+        {
+            "city": "Auburn",
+            "country": "Worcester County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "503 Carter Light Apt 12"
+        }
+    ],
+    "birthDate": "2008-07-17",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Toy286",
+            "given": [
+                "Marion502"
+            ],
+            "prefix": [
+                "nan"
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Marion502 Toy286",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

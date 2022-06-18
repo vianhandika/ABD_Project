@@ -1,0 +1,32 @@
+{
+    "id": "bfbb7a29-dc54-4302-a8ca-7a3f792d9243",
+    "address": [
+        {
+            "city": "Northbridge",
+            "country": "Worcester County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "1091 Gleason Promenade Apt 65"
+        }
+    ],
+    "birthDate": "1975-01-25",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Strosin214",
+            "given": [
+                "Florinda19"
+            ],
+            "prefix": [
+                "Mrs."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Florinda19 Strosin214",
+            "use": "Lubowitz58"
+        }
+    ],
+    "resourceType": "Patient"
+}

@@ -1,0 +1,32 @@
+{
+    "id": "9fda53d4-6fcc-4ef5-a1fe-16e007182ec2",
+    "address": [
+        {
+            "city": "Fitchburg",
+            "country": "Worcester County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "934 Little Crossroad Apt 52"
+        }
+    ],
+    "birthDate": "1999-05-24",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Spinka232",
+            "given": [
+                "Ardath226"
+            ],
+            "prefix": [
+                "Ms."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Ardath226 Spinka232",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

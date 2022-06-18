@@ -1,0 +1,32 @@
+{
+    "id": "96e4e7cd-b134-4d6a-9f30-89cf6104f923",
+    "address": [
+        {
+            "city": "Pembroke",
+            "country": "Plymouth County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "413 Crona Walk"
+        }
+    ],
+    "birthDate": "1972-06-26",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Espinosa298",
+            "given": [
+                "Adán600"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Adán600 Espinosa298",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

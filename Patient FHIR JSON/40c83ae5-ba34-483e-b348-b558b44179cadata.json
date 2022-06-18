@@ -1,0 +1,33 @@
+{
+    "id": "40c83ae5-ba34-483e-b348-b558b44179ca",
+    "address": [
+        {
+            "city": "Dennis",
+            "country": "Barnstable County",
+            "postalCode": "2638.0",
+            "state": "Massachusetts",
+            "text": "304 Gorczany Mall Unit 40"
+        }
+    ],
+    "birthDate": "1925-04-22",
+    "deceasedBoolean": true,
+    "deceasedDateTime": "2003-10-27",
+    "gender": "M",
+    "name": [
+        {
+            "family": "Maggio310",
+            "given": [
+                "Mickey576"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Mickey576 Maggio310",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

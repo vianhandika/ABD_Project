@@ -1,0 +1,32 @@
+{
+    "id": "e98f6994-bee2-4238-bc9d-1997dd5a4260",
+    "address": [
+        {
+            "city": "Clinton",
+            "country": "Worcester County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "803 Raynor Neck Unit 39"
+        }
+    ],
+    "birthDate": "1984-02-23",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Emard19",
+            "given": [
+                "Augustine565"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Augustine565 Emard19",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

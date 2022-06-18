@@ -1,0 +1,32 @@
+{
+    "id": "108cff4f-f9f1-4817-81a1-110697e354de",
+    "address": [
+        {
+            "city": "South Hadley",
+            "country": "Hampshire County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "613 Mertz Arcade"
+        }
+    ],
+    "birthDate": "1948-06-30",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Castillo397",
+            "given": [
+                "Mariano761"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Mariano761 Castillo397",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

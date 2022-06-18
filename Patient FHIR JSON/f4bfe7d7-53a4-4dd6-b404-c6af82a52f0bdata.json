@@ -1,0 +1,32 @@
+{
+    "id": "f4bfe7d7-53a4-4dd6-b404-c6af82a52f0b",
+    "address": [
+        {
+            "city": "Boston",
+            "country": "Suffolk County",
+            "postalCode": "2114.0",
+            "state": "Massachusetts",
+            "text": "171 Schoen Trafficway Unit 85"
+        }
+    ],
+    "birthDate": "2007-09-01",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Vallejo39",
+            "given": [
+                "Bernardo699"
+            ],
+            "prefix": [
+                "nan"
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Bernardo699 Vallejo39",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

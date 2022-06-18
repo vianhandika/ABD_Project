@@ -1,0 +1,32 @@
+{
+    "id": "85670231-0fce-4e52-8b4f-051a3019f867",
+    "address": [
+        {
+            "city": "Wakefield",
+            "country": "Middlesex County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "523 Prosacco Center"
+        }
+    ],
+    "birthDate": "1954-07-02",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Fritsch593",
+            "given": [
+                "Teri144"
+            ],
+            "prefix": [
+                "Mrs."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Teri144 Fritsch593",
+            "use": "Halvorson124"
+        }
+    ],
+    "resourceType": "Patient"
+}

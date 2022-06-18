@@ -1,0 +1,32 @@
+{
+    "id": "b2888f4d-5623-43c7-b010-3678e2f4f82a",
+    "address": [
+        {
+            "city": "Haverhill",
+            "country": "Essex County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "1041 Jacobs Way"
+        }
+    ],
+    "birthDate": "1992-01-22",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Schulist381",
+            "given": [
+                "Lula998"
+            ],
+            "prefix": [
+                "Mrs."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Lula998 Schulist381",
+            "use": "Terry864"
+        }
+    ],
+    "resourceType": "Patient"
+}

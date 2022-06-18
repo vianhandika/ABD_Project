@@ -1,0 +1,32 @@
+{
+    "id": "506c6137-e174-474f-85fb-41398ace5ef4",
+    "address": [
+        {
+            "city": "Melrose",
+            "country": "Middlesex County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "236 Auer Rapid"
+        }
+    ],
+    "birthDate": "1976-05-01",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Kuhic920",
+            "given": [
+                "Nathanial472"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Nathanial472 Kuhic920",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

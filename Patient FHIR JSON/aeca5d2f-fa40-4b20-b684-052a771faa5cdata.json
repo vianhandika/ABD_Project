@@ -1,0 +1,32 @@
+{
+    "id": "aeca5d2f-fa40-4b20-b684-052a771faa5c",
+    "address": [
+        {
+            "city": "Swansea",
+            "country": "Bristol County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "566 Williamson Run Suite 85"
+        }
+    ],
+    "birthDate": "2000-02-26",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Koss676",
+            "given": [
+                "Soraya693"
+            ],
+            "prefix": [
+                "Ms."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Soraya693 Koss676",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

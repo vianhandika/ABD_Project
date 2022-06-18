@@ -1,0 +1,32 @@
+{
+    "id": "f4286e97-28cf-4768-99f5-0d1d86295354",
+    "address": [
+        {
+            "city": "Dalton",
+            "country": "Berkshire County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "1016 Casper Meadow Suite 81"
+        }
+    ],
+    "birthDate": "2004-06-06",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Conroy74",
+            "given": [
+                "Stanton715"
+            ],
+            "prefix": [
+                "nan"
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Stanton715 Conroy74",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

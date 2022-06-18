@@ -1,0 +1,32 @@
+{
+    "id": "a52a8c87-d4e2-4dab-8f42-1d2989c05f26",
+    "address": [
+        {
+            "city": "Cambridge",
+            "country": "Middlesex County",
+            "postalCode": "2472.0",
+            "state": "Massachusetts",
+            "text": "224 Renner Lock"
+        }
+    ],
+    "birthDate": "1999-02-26",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Bode78",
+            "given": [
+                "Beau391"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Beau391 Bode78",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

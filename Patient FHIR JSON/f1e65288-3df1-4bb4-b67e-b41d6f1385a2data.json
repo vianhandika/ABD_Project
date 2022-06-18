@@ -1,0 +1,33 @@
+{
+    "id": "f1e65288-3df1-4bb4-b67e-b41d6f1385a2",
+    "address": [
+        {
+            "city": "North Adams",
+            "country": "Berkshire County",
+            "postalCode": "1247.0",
+            "state": "Massachusetts",
+            "text": "461 Turner Wall"
+        }
+    ],
+    "birthDate": "1927-06-30",
+    "deceasedBoolean": true,
+    "deceasedDateTime": "1988-06-27",
+    "gender": "F",
+    "name": [
+        {
+            "family": "Osinski784",
+            "given": [
+                "Sharita792"
+            ],
+            "prefix": [
+                "Mrs."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Sharita792 Osinski784",
+            "use": "Aufderhar910"
+        }
+    ],
+    "resourceType": "Patient"
+}

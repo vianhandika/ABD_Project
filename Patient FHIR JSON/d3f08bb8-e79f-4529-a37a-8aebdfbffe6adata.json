@@ -1,0 +1,32 @@
+{
+    "id": "d3f08bb8-e79f-4529-a37a-8aebdfbffe6a",
+    "address": [
+        {
+            "city": "Boston",
+            "country": "Suffolk County",
+            "postalCode": "2136.0",
+            "state": "Massachusetts",
+            "text": "570 Gislason Row Suite 32"
+        }
+    ],
+    "birthDate": "2020-03-22",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Lozada73",
+            "given": [
+                "Manuela585"
+            ],
+            "prefix": [
+                "nan"
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Manuela585 Lozada73",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

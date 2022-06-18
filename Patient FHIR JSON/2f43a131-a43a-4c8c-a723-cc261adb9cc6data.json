@@ -1,0 +1,32 @@
+{
+    "id": "2f43a131-a43a-4c8c-a723-cc261adb9cc6",
+    "address": [
+        {
+            "city": "Boston",
+            "country": "Suffolk County",
+            "postalCode": "2215.0",
+            "state": "Massachusetts",
+            "text": "547 Ziemann Burg"
+        }
+    ],
+    "birthDate": "2017-02-23",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Aparicio848",
+            "given": [
+                "María Soledad68"
+            ],
+            "prefix": [
+                "nan"
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "María Soledad68 Aparicio848",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

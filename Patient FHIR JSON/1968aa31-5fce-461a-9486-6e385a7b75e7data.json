@@ -1,0 +1,32 @@
+{
+    "id": "1968aa31-5fce-461a-9486-6e385a7b75e7",
+    "address": [
+        {
+            "city": "Athol",
+            "country": "Worcester County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "953 Zulauf Flat Apt 96"
+        }
+    ],
+    "birthDate": "1986-04-11",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Hernádez343",
+            "given": [
+                "Daniela614"
+            ],
+            "prefix": [
+                "Mrs."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Daniela614 Hernádez343",
+            "use": "Pineda243"
+        }
+    ],
+    "resourceType": "Patient"
+}

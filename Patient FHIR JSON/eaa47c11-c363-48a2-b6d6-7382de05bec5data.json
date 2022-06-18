@@ -1,0 +1,32 @@
+{
+    "id": "eaa47c11-c363-48a2-b6d6-7382de05bec5",
+    "address": [
+        {
+            "city": "Harwich",
+            "country": "Barnstable County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "996 McClure Flat"
+        }
+    ],
+    "birthDate": "1943-12-20",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Bednar518",
+            "given": [
+                "Teodoro374"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Teodoro374 Bednar518",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

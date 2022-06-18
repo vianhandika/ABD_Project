@@ -1,0 +1,33 @@
+{
+    "id": "3047ebac-457b-4a6d-85eb-f59eef4f76cc",
+    "address": [
+        {
+            "city": "Newburyport",
+            "country": "Essex County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "440 Beer Spur Apt 92"
+        }
+    ],
+    "birthDate": "1940-10-29",
+    "deceasedBoolean": true,
+    "deceasedDateTime": "2015-01-17",
+    "gender": "M",
+    "name": [
+        {
+            "family": "Swaniawski813",
+            "given": [
+                "Armando772"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Armando772 Swaniawski813",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

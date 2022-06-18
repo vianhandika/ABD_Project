@@ -1,0 +1,32 @@
+{
+    "id": "d78faf3a-dfad-4b6b-a353-e688cd2b8568",
+    "address": [
+        {
+            "city": "Quincy",
+            "country": "Norfolk County",
+            "postalCode": "2169.0",
+            "state": "Massachusetts",
+            "text": "939 Stanton Route"
+        }
+    ],
+    "birthDate": "1968-08-23",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Buckridge80",
+            "given": [
+                "Guadalupe206"
+            ],
+            "prefix": [
+                "Mr."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Guadalupe206 Buckridge80",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

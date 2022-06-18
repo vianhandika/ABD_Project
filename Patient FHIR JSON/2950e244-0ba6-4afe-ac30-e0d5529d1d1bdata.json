@@ -1,0 +1,32 @@
+{
+    "id": "2950e244-0ba6-4afe-ac30-e0d5529d1d1b",
+    "address": [
+        {
+            "city": "Quincy",
+            "country": "Norfolk County",
+            "postalCode": "2170.0",
+            "state": "Massachusetts",
+            "text": "465 Crist Crossroad Unit 86"
+        }
+    ],
+    "birthDate": "2004-08-13",
+    "deceasedBoolean": false,
+    "gender": "M",
+    "name": [
+        {
+            "family": "Gusikowski974",
+            "given": [
+                "Stewart672"
+            ],
+            "prefix": [
+                "nan"
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Stewart672 Gusikowski974",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

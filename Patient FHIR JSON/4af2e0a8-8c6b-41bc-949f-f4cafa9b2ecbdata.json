@@ -1,0 +1,32 @@
+{
+    "id": "4af2e0a8-8c6b-41bc-949f-f4cafa9b2ecb",
+    "address": [
+        {
+            "city": "Boston",
+            "country": "Suffolk County",
+            "postalCode": "2126.0",
+            "state": "Massachusetts",
+            "text": "900 Friesen Extension Unit 77"
+        }
+    ],
+    "birthDate": "2010-02-21",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "West559",
+            "given": [
+                "Sylvia544"
+            ],
+            "prefix": [
+                "nan"
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Sylvia544 West559",
+            "use": "nan"
+        }
+    ],
+    "resourceType": "Patient"
+}

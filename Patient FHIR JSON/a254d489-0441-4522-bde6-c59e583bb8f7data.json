@@ -1,0 +1,32 @@
+{
+    "id": "a254d489-0441-4522-bde6-c59e583bb8f7",
+    "address": [
+        {
+            "city": "New Bedford",
+            "country": "Bristol County",
+            "postalCode": "2747.0",
+            "state": "Massachusetts",
+            "text": "522 Pagac Gateway Suite 31"
+        }
+    ],
+    "birthDate": "1958-09-17",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Kessler503",
+            "given": [
+                "Oneida64"
+            ],
+            "prefix": [
+                "Mrs."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Oneida64 Kessler503",
+            "use": "Goodwin327"
+        }
+    ],
+    "resourceType": "Patient"
+}

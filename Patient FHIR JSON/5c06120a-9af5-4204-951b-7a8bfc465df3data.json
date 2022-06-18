@@ -1,0 +1,32 @@
+{
+    "id": "5c06120a-9af5-4204-951b-7a8bfc465df3",
+    "address": [
+        {
+            "city": "Salisbury",
+            "country": "Essex County",
+            "postalCode": "nan",
+            "state": "Massachusetts",
+            "text": "785 Collins Trafficway"
+        }
+    ],
+    "birthDate": "1960-01-27",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Nitzsche158",
+            "given": [
+                "Natashia109"
+            ],
+            "prefix": [
+                "Mrs."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Natashia109 Nitzsche158",
+            "use": "Balistreri607"
+        }
+    ],
+    "resourceType": "Patient"
+}

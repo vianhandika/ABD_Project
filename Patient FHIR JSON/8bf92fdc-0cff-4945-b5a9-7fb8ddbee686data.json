@@ -1,0 +1,32 @@
+{
+    "id": "8bf92fdc-0cff-4945-b5a9-7fb8ddbee686",
+    "address": [
+        {
+            "city": "Springfield",
+            "country": "Hampden County",
+            "postalCode": "1199.0",
+            "state": "Massachusetts",
+            "text": "402 Fay Ville"
+        }
+    ],
+    "birthDate": "1957-02-22",
+    "deceasedBoolean": false,
+    "gender": "F",
+    "name": [
+        {
+            "family": "Schuster709",
+            "given": [
+                "Glenna97"
+            ],
+            "prefix": [
+                "Mrs."
+            ],
+            "suffix": [
+                "nan"
+            ],
+            "text": "Glenna97 Schuster709",
+            "use": "Kiehn525"
+        }
+    ],
+    "resourceType": "Patient"
+}

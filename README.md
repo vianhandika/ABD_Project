@@ -28,4 +28,4 @@
 ##### `Tugas 6 - Tugas Kelompok`
 - Menggabungkan tugas individu dari anggota kelompok, dengan menghasilkan model, dashboard, dan API dengan standar FHIR 
 - Proposal Kelompok : ([link](https://docs.google.com/document/d/1CghxdK7C4Y0aUXMg1wqTqn5G9AskP9j8L1m2F_yXrz0/edit?usp=sharing))
-- Tugas Kelompok : ([link](https://github.com/mhihsan/abd/tree/main/project_kelompok))
+- Tugas Kelompok : ([link](https://github.com/vianhandika/ABD_Project/tree/main/Kelompok))
